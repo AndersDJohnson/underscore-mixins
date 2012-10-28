@@ -1,0 +1,22 @@
+{
+  "name": "underscore.yields",
+  "version": "0.1.0",
+  "description": "An underscore mixin like '_.result', but not requiring an object.",
+  "private": true,
+  "main": "underscore.yields",
+  "keywords": [
+    "underscore"
+  ],
+  "author": "Anders D. Johnson < AndersDJohnson atsign gmail dot com >",
+  "license": "MIT",
+  "dependencies": {
+  	"underscore": "*"
+  },
+  "devDependencies": {
+    "coffee-script":  "*"
+  },
+  "engines": {
+  	"node": ">=0.6.x"
+  }
+}
+

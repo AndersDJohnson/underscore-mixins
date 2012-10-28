@@ -1,4 +1,6 @@
-# underscore.yields #
+# underscore mixins #
 
-An underscore mixin like '_.result', but not requiring an object.
+## yields ##
+
+Like '_.result', but not requiring an object.
 

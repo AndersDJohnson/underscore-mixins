@@ -2,7 +2,6 @@
   "name": "underscore.yields",
   "version": "0.1.0",
   "description": "An underscore mixin like '_.result', but not requiring an object.",
-  "private": true,
   "main": "underscore.yields",
   "keywords": [
     "underscore"

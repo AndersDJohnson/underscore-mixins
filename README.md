@@ -12,4 +12,7 @@ For filtering and mapping a list simultaneously.
 
 Like '_.map', but also maps object values.
 
+## filterObject ##
+
+like '_.filter', but also filters objects.
 

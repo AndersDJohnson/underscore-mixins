@@ -8,4 +8,8 @@ Like '_.result', but not requiring an object.
 
 For filtering and mapping a list simultaneously.
 
+## mapObject ##
+
+Like '_.map', but also maps object values.
+
 

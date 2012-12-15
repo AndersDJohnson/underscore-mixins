@@ -1,0 +1,21 @@
+{
+  "name": "underscore.mapFilter",
+  "version": "0.1.0",
+  "description": "An underscore mixin for filtering and mapping a list simultaneously.",
+  "main": "underscore.mapFilter",
+  "keywords": [
+    "underscore"
+  ],
+  "author": "Anders D. Johnson < AndersDJohnson atsign gmail dot com >",
+  "license": "MIT",
+  "dependencies": {
+  	"underscore": "*"
+  },
+  "devDependencies": {
+    "coffee-script":  "*"
+  },
+  "engines": {
+  	"node": ">=0.6.x"
+  }
+}
+
